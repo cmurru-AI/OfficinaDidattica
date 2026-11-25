@@ -800,12 +800,14 @@ html:not(.js) .solo-js {
 
 .post-item p,
 .post-item li,
-.post-practice p {
+.post-practice p,
+.post-practice li {
   font-size: 18px;
   line-height: 1.6;
 }
 
-.post-item ul {
+.post-item ul,
+.post-practice ol {
   padding-left: 22px;
 }
 
