@@ -143,6 +143,31 @@
     ]
   },
   {
+    "id": "ia-in-classe-2026-11-25",
+    "titolo": "Google cambia le regole: IA e Ricerca spente per gli studenti finché la scuola non le attiva",
+    "tipo": "report",
+    "rubrica": "IA in classe",
+    "materia": "interdisciplinare",
+    "destinatari": [
+      "docenti"
+    ],
+    "descrizione": "Google e l'IA negli account degli studenti, il pacchetto europeo «Istruzione e competenze», il parere del Garante sul decreto del Ministero. Più uno strumento da provare: Teachable Machine.",
+    "percorso": "ia-didattica/ia-in-classe-2026-11-25/",
+    "copertina": "assets/copertine/ia-in-classe-2026-11-25.svg",
+    "autore": "Carlo Murru",
+    "stato": "pubblicato",
+    "dataPubblicazione": "2026-11-25",
+    "paroleChiave": [
+      "intelligenza artificiale",
+      "Google Workspace for Education",
+      "Unione europea",
+      "alfabetizzazione all'IA",
+      "privacy",
+      "Garante",
+      "Teachable Machine"
+    ]
+  },
+  {
     "id": "mappa-frazioni",
     "titolo": "Mappa concettuale sulle frazioni",
     "tipo": "mappa",
